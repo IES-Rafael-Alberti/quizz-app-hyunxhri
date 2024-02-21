@@ -154,6 +154,7 @@
             <?php endif; ?>
             </div>
         <input type="submit" value="Submit">
+        <a href="?retake=true">Reintentar</a>
     </form>
 </body>
 </html>
